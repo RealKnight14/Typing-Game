@@ -1,0 +1,10 @@
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\obj\Debug\Typing Game.csprojAssemblyReference.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\obj\Debug\Typing_Game.Form1.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\obj\Debug\Typing_Game.Properties.Resources.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\obj\Debug\Typing Game.csproj.GenerateResource.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\obj\Debug\Typing Game.csproj.CoreCompileInputs.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\bin\Debug\Typing Game.exe.config
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\bin\Debug\Typing Game.exe
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\bin\Debug\Typing Game.pdb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\obj\Debug\Typing Game.exe
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Typing Game\Typing Game\obj\Debug\Typing Game.pdb
